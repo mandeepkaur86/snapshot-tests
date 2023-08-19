@@ -25,11 +25,21 @@ exports[`renders a snapshot 1`] = `
       rel="noopener noreferrer"
       target="_blank"
     >
-      Learn Reactw
+      Learn React
     </a>
     <p>
       more code here. some more code.add something more.more and more
     </p>
+    <div
+      className="git-hub-card"
+    >
+      <h1>
+        Mandeep Kaur
+      </h1>
+      <h2>
+        About Me
+      </h2>
+    </div>
   </header>
 </div>
 `;
